@@ -33,4 +33,4 @@ Thank you for reading, happy hacking, and until next time!
   
 _Written on May 31, 2025_
 
-![Congratulations!](assets/outro.png "Congratulations! 🎉")
+![Congratulations!](outro.png "Congratulations! 🎉")
