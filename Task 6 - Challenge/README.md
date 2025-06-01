@@ -4,6 +4,10 @@ I understand this is a Burp challenge, but my main focus was on retrieving the f
 
 This challenge involves bypassing a custom RSA-encrypted login system to retrieve a flag.
 
+### Prerequisite
+```
+pip3 install pycryptodome
+```
 ### How I Solved It
 
 After analysing the encryption flow and reviewing the provided keys, I replicated the login process in Python. A vulnerability in the login logic allowed me to bypass authentication (you can probably guess what it was from the next script).
