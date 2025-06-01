@@ -1,6 +1,6 @@
 ## The Challenge
 
-I encountered issues with the provided machine, so I decided to take a completely different approach.
+I understand this is a Burp challenge, but my main focus was on retrieving the flag as efficiently as possible. After encountering issues with the provided machine, I decided to take a completely different approach.
 
 This challenge involves bypassing a custom RSA-encrypted login system to retrieve a flag.
 
