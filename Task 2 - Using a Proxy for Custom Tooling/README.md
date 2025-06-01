@@ -8,6 +8,8 @@ Which intercepting proxy currently only has support for Windows?
 
 The comparison table shows Fiddler supports only Windows, unlike the others which are cross-platform.
 
+---
+
 ### Question:
 Which intercepting proxy allows us to write plugins using TypeScript?
 
@@ -15,6 +17,8 @@ Which intercepting proxy allows us to write plugins using TypeScript?
 **Caido**
 
 The plugin support row in the table lists JavaScript/TypeScript scripting for Caido.
+
+---
 
 ### Question:
 Which intercepting proxy allows plugins to be written in the most amount of different coding languages?
