@@ -13,6 +13,8 @@ Notice in the Decoder Improved extension, this is just Base64.
 echo VEhNezEwMUJ1cnB9 | base64 -d
 ```
 
+---
+
 ### Question:
 Does Burp only offer paid extensions developed by users worldwide? (yea/nay)
 
